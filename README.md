@@ -1,4 +1,2 @@
 # rm
-esikachev
-andy-che
 
